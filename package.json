@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/lehanism/yirga/issues"
   },
-  "homepage": "https://github.com/lehanism/yirga#readme"
+  "homepage": "https://github.com/lehanism/yirga#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0"
+  }
 }

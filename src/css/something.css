@@ -1,0 +1,11 @@
+body {
+	background-color: #00ffff;
+}
+
+p {
+	font-size: 10px;
+}
+
+.someclass {
+	color: #ff0000;
+}
